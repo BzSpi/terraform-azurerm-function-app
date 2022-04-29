@@ -1,3 +1,8 @@
+# v6.0.0 - Unreleased
+
+Breaking
+  * AZ-717: AzureRM v3 minimal support
+
 # v5.1.0 - 2022-02-11
 
 Added
